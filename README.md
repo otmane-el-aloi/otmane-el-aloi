@@ -29,8 +29,10 @@ const Otmane = {
     languages: ["Python", "R", "Java", "C++", "Javascript"],
     technologies: {
         ml: ["Tensorflow", "Keras", "sklearn"],
+        dataVisualisation: ["Matplotlib", "Seaborn", "Plotly", "Dash"],
         devOps: [ "AWS", "Docker🐳"],
         databases: ["PostgreSql",  "MySql"],
+
         misc: ["open-cv"]
     },
     currentFocus: "Developing devOps & Software engineering skills"
