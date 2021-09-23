@@ -23,6 +23,28 @@ Here are some ideas to get you started:
 
 Check the repositories section to see my efforts! Hope, you will enjoy it 😄!
 
+```javascript
+const nouamane = {
+    pronouns: "He" | "Him",
+    languages: ["Python", "Go", "Javascript", "Typescript"],
+    technologies: {
+        mlFrameworks: ["Tensorflow", "Pytorch", "Keras", "FastAI"],
+        frontEnd: {
+            js: ["Vue", "React", "Next", "Gatsby"],
+            css: ["Material-UI", "vuetify", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            python: ["Django", "flask"]
+        },
+        devOps: ["Azure", "AWS", "Docker🐳", "Nginx"],
+        databases: ["mongo", "SAP HANA", "MySql"],
+        misc: ["Kafka", "RabbitMQ", "ElasticSearch", "Scrapy", "Socket.IO", "open-cv"]
+    },
+    architecture: ["Microservice architecture", "Serverless Architecture", "Single page applications"],
+    currentFocus: "Developing Deep Learning skills"
+};
+```
 <a href="https://www.linkedin.com/feed/" target="_blank">
   <img align="left" alt="Otmanes's Linkdein" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
 </a>
