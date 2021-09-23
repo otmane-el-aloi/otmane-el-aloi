@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - I love solving problems that involve data.
 - ML/DL enthusiast.
 - Intersted in learning Data engineering and MLops. 
-- A 3nd year student at Ecole Centrale de Nantes [(ECN)](https://www.ec-nantes.fr/), Computer Science /Applied Mathematics & Data Science Majors .
+- Final year (M2) student at Ecole Centrale de Nantes [(ECN)](https://www.ec-nantes.fr/), Computer Science /Applied Mathematics & Data Science Majors .
 
 <!--**To know more:**  [Website](website), [LinkedIn](linkedin, [Email](email)-->
 
