@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 
 ## This is El aloi Otmane!
-#### Data Scientist | Software Engineering Student
+#### Data Scientist | Computer Science Student
 #### *Currently looking for an end of studies internship (6 Months) starting april 2022  !*
 - I love solving problems that involve data.
 - ML/DL enthusiast.
