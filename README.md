@@ -1,15 +1,14 @@
-### Hi there 👋
+
 
 <!--
 **otmane-el-aloi/otmane-el-aloi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-
 -->
 ### Hi there 👋
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Elcaveman&show_icons=true"/>](https://github.com/otmane-el-aloi/)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=otmane-el-aloi&show_icons=true"/>](https://github.com/otmane-el-aloi/)
 
 
 ## This is El aloi Otmane!
