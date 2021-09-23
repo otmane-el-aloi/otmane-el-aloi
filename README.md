@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 Check the repositories section to see my efforts! Hope, you will enjoy it 😄!
 
 ```javascript
-const nouamane = {
+const Otmane = {
     pronouns: "He" | "Him",
     languages: ["Python", "R", "Java", "C++", "Javascript"],
     technologies: {
