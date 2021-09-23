@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--**To know more:**  [Website](website), [LinkedIn](linkedin, [Email](email)-->
 
 Check the repositories section to see my efforts! Hope, you will enjoy it 😄!
-
+<!--
 ```javascript
 const Otmane = {
     pronouns: "He" | "Him",
@@ -36,6 +36,7 @@ const Otmane = {
     currentFocus: "Developing devOps & Software engineering skills"
 };
 ```
+-->
 <a href="https://www.linkedin.com/feed/" target="_blank">
   <img align="left" alt="Otmanes's Linkdein" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
 </a>
