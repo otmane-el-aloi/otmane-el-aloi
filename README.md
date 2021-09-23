@@ -5,15 +5,11 @@
 
 Here are some ideas to get you started:
 
+
+-->
 ### Hi there 👋
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Elcaveman&show_icons=true"/>](https://github.com/otmane-el-aloi/)
-
-<!--<a href="channel">
-  <img align="left" alt="Mehdi's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
-</a>
--->
-
 
 
 ## This is El aloi Otmane!
