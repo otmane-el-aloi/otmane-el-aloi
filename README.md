@@ -39,7 +39,7 @@ const Otmane = {
 };
 ```
 -->
-<a href="https://www.linkedin.com/feed/" target="_blank">
+<a href="https://www.linkedin.com/in/otmane-elaloi/" target="_blank">
   <img align="left" alt="Otmanes's Linkdein" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
 </a>
 <a href="https://github.com/otmane-el-aloi" target="_blank">
@@ -48,3 +48,5 @@ const Otmane = {
 
 
 I love connecting with different people so if you want to say hi, <b>I'll be happy to exchange words with you!</b> 😊
+
+![](https://komarev.com/ghpvc/?username=otmane-el-aloi&color=blue&style=flat-square&label=Profile+visitors)
