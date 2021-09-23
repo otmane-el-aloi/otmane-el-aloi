@@ -26,23 +26,14 @@ Check the repositories section to see my efforts! Hope, you will enjoy it 😄!
 ```javascript
 const nouamane = {
     pronouns: "He" | "Him",
-    languages: ["Python", "Go", "Javascript", "Typescript"],
+    languages: ["Python", "R", "Java", "C++", "Javascript"],
     technologies: {
-        mlFrameworks: ["Tensorflow", "Pytorch", "Keras", "FastAI"],
-        frontEnd: {
-            js: ["Vue", "React", "Next", "Gatsby"],
-            css: ["Material-UI", "vuetify", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express"],
-            python: ["Django", "flask"]
-        },
-        devOps: ["Azure", "AWS", "Docker🐳", "Nginx"],
-        databases: ["mongo", "SAP HANA", "MySql"],
-        misc: ["Kafka", "RabbitMQ", "ElasticSearch", "Scrapy", "Socket.IO", "open-cv"]
+        ml: ["Tensorflow", "Keras", "sklearn"],
+        devOps: [ "AWS", "Docker🐳"]
+        databases: ["PostgreSql",  "MySql"],
+        misc: ["open-cv"]
     },
-    architecture: ["Microservice architecture", "Serverless Architecture", "Single page applications"],
-    currentFocus: "Developing Deep Learning skills"
+    currentFocus: "Developing devOps & Software engineering skills"
 };
 ```
 <a href="https://www.linkedin.com/feed/" target="_blank">
