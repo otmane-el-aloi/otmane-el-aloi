@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 <!--**To know more:**  [Website](website), [LinkedIn](linkedin, [Email](email)-->
 
-Check the repositories section to see my efforts! Hope, you will enjoy it 😄!
 <!--
 ```javascript
 const Otmane = {
