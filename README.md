@@ -41,9 +41,7 @@ const Otmane = {
 <a href="https://www.linkedin.com/in/otmane-elaloi/" target="_blank">
   <img align="left" alt="Otmanes's Linkdein" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
 </a>
-<a href="https://github.com/otmane-el-aloi" target="_blank">
-  <img align="left" alt="Otmane's Github" width="25px" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png" />
-</a>
+
 
 
 I love connecting with different people so if you want to say hi, <b>I'll be happy to exchange words with you!</b> 😊
