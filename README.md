@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 
 ## This is El aloi Otmane!
 #### Data Scientist | Computer Science Student
-#### *Currently looking for an end of studies internship (6 Months) starting april 2022  !*
+
 - I love solving problems that involve data.
-- ML/DL enthusiast.
 - Intersted in learning Data engineering and MLops. 
 - Final year (M2) student at Ecole Centrale de Nantes [(ECN)](https://www.ec-nantes.fr/), Computer Science /Applied Mathematics & Data Science Majors .
 
