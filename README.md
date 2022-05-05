@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 
 ## This is El aloi Otmane!
-#### Data Scientist | Computer Science Student
+#### Data Science/ Data Engineering/ MLOps | Computer Science Student
 
 - I love solving problems that involve data.
 - Intersted in learning Data engineering and MLops. 
