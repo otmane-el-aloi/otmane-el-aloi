@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 
 
 ## This is El aloi Otmane!
-#### Data Science | Computer Science Student
-
+#### Data Engineer
+- Currently working as a Data Engineer at Inetum.
 - I love solving problems that involve data.
 - Intersted in learning Data engineering and MLops. 
-- Final year engineering student at Ecole Centrale de Nantes [(ECN)](https://www.ec-nantes.fr/), Computer Science /Applied Mathematics & Data Science Majors .
+- Engineering degree at Ecole Centrale de Nantes [(ECN)](https://www.ec-nantes.fr/), Computer Science /Applied Mathematics & Data Science Majors .
 
 <!--**To know more:**  [Website](website), [LinkedIn](linkedin, [Email](email)-->
 
